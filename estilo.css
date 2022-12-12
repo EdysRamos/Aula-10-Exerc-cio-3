@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.titulo {
+
+    margin-bottom: 20px;
+    background-color: rgb(4, 4, 66);
+
+    color: rgb(250, 252, 252);
+    text-align: center;
+    text-shadow: 5px 5px 35px rgb(4, 4, 141);
+
+    padding: 15px;
+
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+    border-bottom: dashed blue
+}
+
+.card {
+
+    margin: 0 auto;
+    background-color: rgb(208, 216, 226);
+    width: 400px;
+    height: 490px;
+
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 24px;
+
+}
+
+.card img {
+
+    width: 100%;
+    border-radius: 20px;
+}
+
+.SubTitulo {
+
+    color: rgb(4, 4, 75);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20PX;
+    font-weight: bold;
+
+    text-shadow: 1px 1px 5px black;
+
+    text-align: center;
+    margin-top: 20PX;
+}
+
+.Avaliacao p {
+
+    text-align: center;
+
+}
+
+.Avaliacao img {
+
+    width: 20px;
+}
+
+.conteudo {
+
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-justify: auto;
+
+}
+
+
+.btcompra p {
+
+    text-align: center;
+
+
+}
+
+.bt a {
+
+    background-color: rgb(4, 4, 66);
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 20px;
+
+
+}
+
+.bt a:hover {
+    background-color: rgba(4, 4, 66, 0.918);
+    color: rgb(247, 243, 243);
+    text-shadow: 0PX 0PX 1PX white;
+
+}
